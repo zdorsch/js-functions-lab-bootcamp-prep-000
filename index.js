@@ -13,3 +13,4 @@ function happyHolidayTo(holiday,name) {
 
 happyHolidays()
 happyHolidaysTo("you")
+happyHolidayTo("Independence day","zach")
