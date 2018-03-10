@@ -7,3 +7,4 @@ return `Happy Holidays, ${name}`"
 }*/
 
 happyHolidays()
+happyHolidaysTo("you")
